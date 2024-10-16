@@ -1,0 +1,6 @@
+ex1 answers
+
+3a)the .git directory contains all the information and metadata needed to manage the history 
+6a)the file appears in the staging area
+11b)git diff compares the working directory with the staged area. We need to use git diff --staged to compare the staging area with the last commit
+14a) 4
